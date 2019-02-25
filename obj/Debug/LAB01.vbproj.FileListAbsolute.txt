@@ -1,0 +1,12 @@
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.vbprojAssemblyReference.cache
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.Form1.resources
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.Resources.resources
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.vbproj.GenerateResource.cache
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.vbproj.CoreCompileInputs.cache
+C:\Users\Darshan\source\repos\LAB01\LAB01\bin\Debug\LAB01.exe.config
+C:\Users\Darshan\source\repos\LAB01\LAB01\bin\Debug\LAB01.exe
+C:\Users\Darshan\source\repos\LAB01\LAB01\bin\Debug\LAB01.pdb
+C:\Users\Darshan\source\repos\LAB01\LAB01\bin\Debug\LAB01.xml
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.exe
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.xml
+C:\Users\Darshan\source\repos\LAB01\LAB01\obj\Debug\LAB01.pdb
